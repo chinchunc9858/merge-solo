@@ -3,4 +3,4 @@ is
 not
 nice
 and
-yummy
+peppermint
