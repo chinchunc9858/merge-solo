@@ -1,6 +1,6 @@
 pizza
 is
 not
-good
+nice
 and
 yummy
